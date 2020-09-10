@@ -1,0 +1,60 @@
+{
+    "data":[        
+    {
+        "id":0,
+        "nombre":"Jeremías 17:5",
+        "artista":"Canserbero",
+        "cancion":"canciones/jeremias-muerte.mp3",
+        "imagen:":"imagenes/muerte.jpg"
+    },
+    {
+        "id":1,
+        "nombre":"Perdiendo la Fé",
+        "artista":"Canserbero",
+        "cancion":"canciones/perdiendo-la-fe-vida.mp3",
+        "imagen:":"imagenes/vida.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"Es Épico",
+        "artista":"Canserbero",
+        "cancion":"canciones/es-epico-muerte.mp3",
+        "imagen:":"imagenes/muerte.jpg"
+    },
+    {
+        "id":3,
+        "nombre":" Pensando en Tí",
+        "artista":"Canserbero",
+        "cancion":"canciones/pensando-en-ti-vida.mp3",
+        "imagen:":"imagenes/vida.jpg"
+    },
+    {
+        "id":4,
+        "nombre":"Mundo De Piedra",
+        "artista":"Canserbero",
+        "cancion":"canciones/mundo-de-piedra-vida.mp3",
+        "imagen:":"imagenes/muerte.jpg"
+    },
+    {
+        "id":5,
+        "nombre":"Perdóname",
+        "artista":"FMK",
+        "cancion":"canciones/fmk-perdoname.mp3",
+        "imagen:":"imagenes/fmk.jpg"
+    },
+    {
+        "id":6,
+        "nombre":"Sola",
+        "artista":"Tiago",
+        "cancion":"canciones/sola-thiago.mp3",
+        "imagen:":"imagenes/thiago.jpg"
+    },
+    {
+        "id":7,
+        "nombre":"NADIR",
+        "artista":"Zeballos",
+        "cancion":"canciones/nadir-zeballosprod.mp3",
+        "imagen:":"imagenes/zeballos.jpg"
+    }
+    ]
+}
